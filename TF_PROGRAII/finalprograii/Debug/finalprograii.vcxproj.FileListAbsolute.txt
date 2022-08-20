@@ -1,0 +1,4 @@
+C:\Users\lilif\source\repos\TF_PROGRAII\finalprograii\Debug\finalprograii.vcxproj.AssemblyReference.cache
+C:\Users\lilif\source\repos\TF_PROGRAII\finalprograii\Debug\finalprograii.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\lilif\source\repos\TF_PROGRAII\finalprograii\Debug\finalprograii.MyForm.resources
+C:\Users\lilif\source\repos\TF_PROGRAII\finalprograii\Debug\finalprograii.vcxproj.GenerateResource.cache
